@@ -1,0 +1,14 @@
+/home/omar/Projects/csharp/class/encapsulation/bin/Debug/net9.0/encapsulation
+/home/omar/Projects/csharp/class/encapsulation/bin/Debug/net9.0/encapsulation.deps.json
+/home/omar/Projects/csharp/class/encapsulation/bin/Debug/net9.0/encapsulation.runtimeconfig.json
+/home/omar/Projects/csharp/class/encapsulation/bin/Debug/net9.0/encapsulation.dll
+/home/omar/Projects/csharp/class/encapsulation/bin/Debug/net9.0/encapsulation.pdb
+/home/omar/Projects/csharp/class/encapsulation/obj/Debug/net9.0/encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/omar/Projects/csharp/class/encapsulation/obj/Debug/net9.0/encapsulation.AssemblyInfoInputs.cache
+/home/omar/Projects/csharp/class/encapsulation/obj/Debug/net9.0/encapsulation.AssemblyInfo.cs
+/home/omar/Projects/csharp/class/encapsulation/obj/Debug/net9.0/encapsulation.csproj.CoreCompileInputs.cache
+/home/omar/Projects/csharp/class/encapsulation/obj/Debug/net9.0/encapsulation.dll
+/home/omar/Projects/csharp/class/encapsulation/obj/Debug/net9.0/refint/encapsulation.dll
+/home/omar/Projects/csharp/class/encapsulation/obj/Debug/net9.0/encapsulation.pdb
+/home/omar/Projects/csharp/class/encapsulation/obj/Debug/net9.0/encapsulation.genruntimeconfig.cache
+/home/omar/Projects/csharp/class/encapsulation/obj/Debug/net9.0/ref/encapsulation.dll

@@ -1,0 +1,14 @@
+/home/omar/Projects/csharp/class/circle/bin/Debug/net9.0/circle
+/home/omar/Projects/csharp/class/circle/bin/Debug/net9.0/circle.deps.json
+/home/omar/Projects/csharp/class/circle/bin/Debug/net9.0/circle.runtimeconfig.json
+/home/omar/Projects/csharp/class/circle/bin/Debug/net9.0/circle.dll
+/home/omar/Projects/csharp/class/circle/bin/Debug/net9.0/circle.pdb
+/home/omar/Projects/csharp/class/circle/obj/Debug/net9.0/circle.GeneratedMSBuildEditorConfig.editorconfig
+/home/omar/Projects/csharp/class/circle/obj/Debug/net9.0/circle.AssemblyInfoInputs.cache
+/home/omar/Projects/csharp/class/circle/obj/Debug/net9.0/circle.AssemblyInfo.cs
+/home/omar/Projects/csharp/class/circle/obj/Debug/net9.0/circle.csproj.CoreCompileInputs.cache
+/home/omar/Projects/csharp/class/circle/obj/Debug/net9.0/circle.dll
+/home/omar/Projects/csharp/class/circle/obj/Debug/net9.0/refint/circle.dll
+/home/omar/Projects/csharp/class/circle/obj/Debug/net9.0/circle.pdb
+/home/omar/Projects/csharp/class/circle/obj/Debug/net9.0/circle.genruntimeconfig.cache
+/home/omar/Projects/csharp/class/circle/obj/Debug/net9.0/ref/circle.dll
