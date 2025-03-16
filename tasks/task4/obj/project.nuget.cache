@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W02YRqw6EQs=",
+  "success": true,
+  "projectFilePath": "/home/omar/Projects/csharp/tasks/task4/task4.csproj",
+  "expectedPackageFiles": [
+    "/home/omar/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.3/microsoft.aspnetcore.app.ref.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

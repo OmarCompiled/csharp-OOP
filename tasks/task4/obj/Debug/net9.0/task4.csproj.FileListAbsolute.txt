@@ -1,0 +1,14 @@
+/home/omar/Projects/csharp/tasks/task4/obj/Debug/net9.0/task4.GeneratedMSBuildEditorConfig.editorconfig
+/home/omar/Projects/csharp/tasks/task4/obj/Debug/net9.0/task4.AssemblyInfoInputs.cache
+/home/omar/Projects/csharp/tasks/task4/obj/Debug/net9.0/task4.AssemblyInfo.cs
+/home/omar/Projects/csharp/tasks/task4/obj/Debug/net9.0/task4.csproj.CoreCompileInputs.cache
+/home/omar/Projects/csharp/tasks/task4/bin/Debug/net9.0/task4
+/home/omar/Projects/csharp/tasks/task4/bin/Debug/net9.0/task4.deps.json
+/home/omar/Projects/csharp/tasks/task4/bin/Debug/net9.0/task4.runtimeconfig.json
+/home/omar/Projects/csharp/tasks/task4/bin/Debug/net9.0/task4.dll
+/home/omar/Projects/csharp/tasks/task4/bin/Debug/net9.0/task4.pdb
+/home/omar/Projects/csharp/tasks/task4/obj/Debug/net9.0/task4.dll
+/home/omar/Projects/csharp/tasks/task4/obj/Debug/net9.0/refint/task4.dll
+/home/omar/Projects/csharp/tasks/task4/obj/Debug/net9.0/task4.pdb
+/home/omar/Projects/csharp/tasks/task4/obj/Debug/net9.0/task4.genruntimeconfig.cache
+/home/omar/Projects/csharp/tasks/task4/obj/Debug/net9.0/ref/task4.dll
