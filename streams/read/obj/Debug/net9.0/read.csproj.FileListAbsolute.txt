@@ -1,0 +1,15 @@
+/home/omar/projects/csharp-OOP/streams/read/bin/Debug/net9.0/read
+/home/omar/projects/csharp-OOP/streams/read/bin/Debug/net9.0/read.deps.json
+/home/omar/projects/csharp-OOP/streams/read/bin/Debug/net9.0/read.runtimeconfig.json
+/home/omar/projects/csharp-OOP/streams/read/bin/Debug/net9.0/read.dll
+/home/omar/projects/csharp-OOP/streams/read/bin/Debug/net9.0/read.pdb
+/home/omar/projects/csharp-OOP/streams/read/obj/Debug/net9.0/read.GeneratedMSBuildEditorConfig.editorconfig
+/home/omar/projects/csharp-OOP/streams/read/obj/Debug/net9.0/read.AssemblyInfoInputs.cache
+/home/omar/projects/csharp-OOP/streams/read/obj/Debug/net9.0/read.AssemblyInfo.cs
+/home/omar/projects/csharp-OOP/streams/read/obj/Debug/net9.0/read.csproj.CoreCompileInputs.cache
+/home/omar/projects/csharp-OOP/streams/read/obj/Debug/net9.0/read.sourcelink.json
+/home/omar/projects/csharp-OOP/streams/read/obj/Debug/net9.0/read.dll
+/home/omar/projects/csharp-OOP/streams/read/obj/Debug/net9.0/refint/read.dll
+/home/omar/projects/csharp-OOP/streams/read/obj/Debug/net9.0/read.pdb
+/home/omar/projects/csharp-OOP/streams/read/obj/Debug/net9.0/read.genruntimeconfig.cache
+/home/omar/projects/csharp-OOP/streams/read/obj/Debug/net9.0/ref/read.dll
