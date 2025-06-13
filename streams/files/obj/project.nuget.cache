@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hAK/bNBW1lw=",
+  "success": true,
+  "projectFilePath": "/home/omar/projects/csharp-OOP/files/files.csproj",
+  "expectedPackageFiles": [
+    "/home/omar/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

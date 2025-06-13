@@ -1,0 +1,15 @@
+/home/omar/projects/csharp-OOP/files/obj/Debug/net9.0/files.GeneratedMSBuildEditorConfig.editorconfig
+/home/omar/projects/csharp-OOP/files/obj/Debug/net9.0/files.AssemblyInfoInputs.cache
+/home/omar/projects/csharp-OOP/files/obj/Debug/net9.0/files.AssemblyInfo.cs
+/home/omar/projects/csharp-OOP/files/obj/Debug/net9.0/files.csproj.CoreCompileInputs.cache
+/home/omar/projects/csharp-OOP/files/obj/Debug/net9.0/files.sourcelink.json
+/home/omar/projects/csharp-OOP/files/bin/Debug/net9.0/files
+/home/omar/projects/csharp-OOP/files/bin/Debug/net9.0/files.deps.json
+/home/omar/projects/csharp-OOP/files/bin/Debug/net9.0/files.runtimeconfig.json
+/home/omar/projects/csharp-OOP/files/bin/Debug/net9.0/files.dll
+/home/omar/projects/csharp-OOP/files/bin/Debug/net9.0/files.pdb
+/home/omar/projects/csharp-OOP/files/obj/Debug/net9.0/files.dll
+/home/omar/projects/csharp-OOP/files/obj/Debug/net9.0/refint/files.dll
+/home/omar/projects/csharp-OOP/files/obj/Debug/net9.0/files.pdb
+/home/omar/projects/csharp-OOP/files/obj/Debug/net9.0/files.genruntimeconfig.cache
+/home/omar/projects/csharp-OOP/files/obj/Debug/net9.0/ref/files.dll
